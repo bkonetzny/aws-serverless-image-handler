@@ -1,4 +1,4 @@
-# aws-serverless-image-handler
+# kinoheld\AwsServerlessImageHandler
 Library to build image URLs according to https://github.com/awslabs/serverless-image-handler
 
 ## Installation
