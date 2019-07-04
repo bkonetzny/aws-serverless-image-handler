@@ -1,0 +1,11 @@
+{
+  "name": "kinoheld/aws-serverless-image-handler",
+  "description": "Library to build image URLs according to https://github.com/awslabs/serverless-image-handler",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "kinoheld\\AwsServerlessImageHandler\\": "src/"
+    }
+  }
+}
