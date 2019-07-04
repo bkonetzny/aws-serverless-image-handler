@@ -9,7 +9,7 @@ composer require kinoheld/aws-serverless-image-handler
 
 ## Usage
 ```php
-$imageHandler = new kinoheld\AwsServerlessImageHandler\ImageHandler;
+$imageHandler = new kinoheld\AwsServerlessImageHandler\ImageHandler();
 $imageHandler->setDomain('https://xxx.cloudfront.net/');
 $imageHandler->setBucket('my-bucket');
 
